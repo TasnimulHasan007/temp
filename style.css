@@ -22,6 +22,7 @@ body {
   padding: 16px;
   border-radius: 8px;
   margin-bottom: 12px;
+  box-shadow: inset 0 0 20px 5px rgba(0, 0, 0, 0.3);
 }
 
 .toolbar button {
@@ -56,6 +57,7 @@ body {
   border-radius: 8px;
   overflow: hidden;
   background: #bdc3c7;
+  box-shadow: inset 0 0 20px 5px rgba(0, 0, 0, 0.3);
 }
 
 .contents .content {
